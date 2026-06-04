@@ -1,0 +1,11 @@
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/controller/LoginRequest.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/controller/UserController.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/MassAssignmentApplication.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/util/JwtUtil.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/model/User.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/dto/UpdateUserRoleRequestDTO.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/security/SecurityConfig.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/controller/AuthController.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/security/JwtAuthenticationFilter.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/controller/AdminUserController.java
+/home/gsmith13/learning/labs/bopla_mass/src/main/java/com/demo/massassignment/repository/UserRepository.java
